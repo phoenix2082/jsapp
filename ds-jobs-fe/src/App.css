@@ -1,0 +1,34 @@
+.ds-logo {
+    background: url('../img/header_logo.png');
+    background-repeat: no-repeat;
+    width: 32px;
+    height: 32px;
+}
+
+.navbar-ds {
+    background-color: lightseagreen;
+}
+
+#ds-brand {
+    margin-left: 0px;
+}
+
+#appdiv {
+    max-width: 1152px;
+}
+
+#job-div {
+    padding-left: 10px;
+}
+
+#job-card {
+    align-items: center;
+}
+
+#job-card-parent {
+    margin-top: 5px;
+}
+
+.job-tags {
+    padding: 0px 5px 0px 5px;
+}
