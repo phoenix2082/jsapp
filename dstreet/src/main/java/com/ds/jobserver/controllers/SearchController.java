@@ -1,7 +1,7 @@
 /**
  *
  */
-package com.ds.jobserver;
+package com.ds.jobserver.controllers;
 
 import java.util.Date;
 import java.util.List;
